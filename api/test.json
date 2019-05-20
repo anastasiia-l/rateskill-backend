@@ -1,0 +1,319 @@
+{
+  "tweets_reports": [
+    {
+      "polarity": 0.0,
+      "subjectivity": 0.1,
+      "sentiment": "Neutral",
+      "tweet": "\u201cCASE CLOSED!\u201d @SenateMajLDR \nhttps://t.co/TOIatsmu4U",
+      "keywords": [
+        "case closed",
+        "senatemajldr"
+      ]
+    },
+    {
+      "polarity": -0.0516,
+      "subjectivity": 0.1,
+      "sentiment": "Neutral",
+      "tweet": "McConnell Backs Trump: Mueller Report Is 'Case Closed' | Breitbart https://t.co/eOWQSJX7lO via @BreitbartNews",
+      "keywords": [
+        "mcconnell backs trump",
+        "mueller report"
+      ]
+    },
+    {
+      "polarity": 0.8074,
+      "subjectivity": 0.5,
+      "sentiment": "Positive",
+      "tweet": "LIVE NOW: President Trump Presents the Presidential Medal of Freedom to Tiger Woods https://t.co/tqZdiXay5T",
+      "keywords": [
+        "president trump presents",
+        "tiger woods",
+        "presidential medal",
+        "live",
+        "freedom"
+      ]
+    },
+    {
+      "polarity": -0.2103,
+      "subjectivity": 0.5,
+      "sentiment": "Negative",
+      "tweet": "Puerto Rico has been given more money by Congress for Hurricane Disaster Relief, 91 Billion Dollars, than any State in the history of the U.S. As an example, Florida got $12 Billion &amp; Texas $39 Billion for their monster hurricanes. Now the Democrats are saying NO Relief to......",
+      "keywords": [
+        "billion dollars",
+        "hurricane disaster relief",
+        "puerto rico",
+        "monster hurricanes",
+        "relief",
+        "state",
+        "saying",
+        "money",
+        "history",
+        "given",
+        "example",
+        "democrats",
+        "congress"
+      ]
+    },
+    {
+      "polarity": 0.358,
+      "subjectivity": 0.5666666666666667,
+      "sentiment": "Positive",
+      "tweet": "....Alabama, Iowa, Nebraska, Georgia, South Carolina, North Carolina and others unless much more money is given to Puerto Rico. The Dems don\u2019t want farmers to get any help. Puerto Rico should be very happy and the Dems should stop blocking much needed Disaster Relief!",
+      "keywords": [
+        "others unless much",
+        "want farmers",
+        "south carolina",
+        "puerto rico",
+        "north carolina",
+        "alabama",
+        "nebraska",
+        "money",
+        "iowa",
+        "help",
+        "happy",
+        "given",
+        "get",
+        "georgia",
+        "dems"
+      ]
+    },
+    {
+      "polarity": 0.9041,
+      "subjectivity": 0.5583333333333333,
+      "sentiment": "Positive",
+      "tweet": "I am pleased to inform you that THE BIG FIREWORKS, after many years of not having any, are coming back to beautiful Mount Rushmore in South Dakota. Great work @GovKristiNoem and @SecBernhardt! #MAGA",
+      "keywords": [
+        "great work govkristinoem",
+        "beautiful mount rushmore",
+        "south dakota",
+        "many years",
+        "coming back",
+        "big fireworks",
+        "secbernhardt",
+        "pleased",
+        "maga",
+        "inform"
+      ]
+    },
+    {
+      "polarity": 0.9775,
+      "subjectivity": 0.6,
+      "sentiment": "Positive",
+      "tweet": "It\u2019s an incredible privilege to be awarded the Presidential Medal of Freedom. Considering the recipients, history, and what this means to me and my family, it\u2019s also very humbling. Thank you all for your support and I hope this inspires others to never give up on their dreams. https://t.co/33CJIHwQvz",
+      "keywords": [
+        "presidential medal",
+        "never give",
+        "inspires others",
+        "incredible privilege",
+        "thank",
+        "support",
+        "recipients",
+        "means",
+        "humbling",
+        "hope",
+        "history",
+        "freedom",
+        "family",
+        "dreams",
+        "considering",
+        "awarded",
+        "also"
+      ]
+    },
+    {
+      "polarity": -0.126,
+      "subjectivity": 0.3,
+      "sentiment": "Neutral",
+      "tweet": "Hillary Clinton is STILL claiming the election was \u201cstolen\u201d from her. \n\nIt wasn\u2019t.\n\nShe had a failed message and completely wrote off states like mine.\n\n@realDonaldTrump showed up, has delivered big results as president, and he\u2019s going to win again in 2020! https://t.co/8URPy6cbZe",
+      "keywords": [
+        "states like mine",
+        "delivered big results",
+        "still claiming",
+        "realdonaldtrump showed",
+        "hillary clinton",
+        "failed message",
+        "completely wrote",
+        "win",
+        "stolen",
+        "president",
+        "going",
+        "election"
+      ]
+    },
+    {
+      "polarity": 0.0,
+      "subjectivity": 0.13333333333333333,
+      "sentiment": "Neutral",
+      "tweet": "BIG NEWS: Nearly HALF of @realdonaldtrump\u2019s 2020 campaign contributions this year have come from WOMEN donors.\n\n#WomenForTrump #MAGA\n\nhttps://t.co/7a0fxC1T3D",
+      "keywords": [
+        "campaign contributions",
+        "womenfortrump maga",
+        "women donors",
+        "realdonaldtrump",
+        "nearly half",
+        "big news",
+        "year",
+        "come"
+      ]
+    },
+    {
+      "polarity": -0.1759,
+      "subjectivity": 0.2708333333333333,
+      "sentiment": "Neutral",
+      "tweet": "President @realDonaldTrump is hard at work for the American people!\n\n#ThanksPresidentTrump #MAGA https://t.co/ehPs7iEn1u",
+      "keywords": [
+        "thankspresidenttrump maga",
+        "president realdonaldtrump",
+        "american people",
+        "work",
+        "hard"
+      ]
+    },
+    {
+      "polarity": 0.1156,
+      "subjectivity": 0.8666666666666667,
+      "sentiment": "Neutral",
+      "tweet": "Ever wonder why the Democrats are so obsessed with Russia? \n \nThey want to distract from how strong our economy is under @realDonaldTrump!\nhttps://t.co/0I4LqnLuLS",
+      "keywords": [
+        "ever wonder",
+        "want",
+        "strong",
+        "russia",
+        "realdonaldtrump",
+        "obsessed",
+        "economy",
+        "distract",
+        "democrats"
+      ]
+    },
+    {
+      "polarity": 0.2481,
+      "subjectivity": 0.5,
+      "sentiment": "Positive",
+      "tweet": "He wants to impeach because they can\u2019t win election. Sad! https://t.co/oFO6wMVhYt",
+      "keywords": [
+        "win election",
+        "wants",
+        "sad",
+        "impeach"
+      ]
+    },
+    {
+      "polarity": -0.2263,
+      "subjectivity": 0.45,
+      "sentiment": "Negative",
+      "tweet": "'Forgotten Man' Story: Under Trump, Red Counties Economically Thrive https://t.co/eboFUSJH1u via @BreitbartNews",
+      "keywords": [
+        "forgotten man story",
+        "trump"
+      ]
+    },
+    {
+      "polarity": 0.8883,
+      "subjectivity": 0.9,
+      "sentiment": "Positive",
+      "tweet": "Congratulations @TigerWoods - you are truly one of a kind! https://t.co/B6YpeLZilo",
+      "keywords": [
+        "truly one",
+        "congratulations tigerwoods",
+        "kind"
+      ]
+    },
+    {
+      "polarity": 0.6696,
+      "subjectivity": 0.15,
+      "sentiment": "Positive",
+      "tweet": "On the one year anniversary of @FLOTUS' initiative, Be Best, take a look back at some of the highlights! #BeBest https://t.co/6oqylYZkDG",
+      "keywords": [
+        "one year anniversary",
+        "look back",
+        "flotus initiative",
+        "take",
+        "highlights",
+        "best",
+        "bebest"
+      ]
+    },
+    {
+      "polarity": -0.2467,
+      "subjectivity": 0.5666666666666667,
+      "sentiment": "Negative",
+      "tweet": "Democrats in Congress must vote to close the terrible loopholes at the Southern Border. If not, harsh measures will have to be taken!",
+      "keywords": [
+        "congress must vote",
+        "terrible loopholes",
+        "southern border",
+        "harsh measures",
+        "taken",
+        "democrats",
+        "close"
+      ]
+    },
+    {
+      "polarity": 0.923,
+      "subjectivity": 0.34722222222222227,
+      "sentiment": "Positive",
+      "tweet": "Today, it was my true honor to present the Commander-in-Chief\u2019s Trophy\u2014for the second year in a row, to the @ArmyWP_Football Black Knights. Congratulations once again on your historic victories, and keep on making us proud! https://t.co/nGOC4PQn6S",
+      "keywords": [
+        "making us proud",
+        "true honor",
+        "second year",
+        "historic victories",
+        "chief",
+        "trophy",
+        "today",
+        "row",
+        "present",
+        "keep",
+        "congratulations",
+        "commander"
+      ]
+    },
+    {
+      "polarity": 0.636,
+      "subjectivity": 0.0,
+      "sentiment": "Positive",
+      "tweet": "Congratulations @ArmyWP_Football!\nhttps://t.co/jzc35XNLl3",
+      "keywords": [
+        "congratulations armywp football"
+      ]
+    },
+    {
+      "polarity": 0.54,
+      "subjectivity": 0.7800000000000001,
+      "sentiment": "Positive",
+      "tweet": "Just spoke to Prime Minister Abe of Japan concerning North Korea and Trade. Very good conversation!",
+      "keywords": [
+        "prime minister abe",
+        "good conversation",
+        "trade",
+        "spoke"
+      ]
+    },
+    {
+      "polarity": 0.358,
+      "subjectivity": 0.5666666666666667,
+      "sentiment": "Positive",
+      "tweet": "....Alabama, Iowa, Nebraska, Georgia, South Carolina, North Carolina and others unless much more money is given to Puerto Rico. The Dems don\u2019t want farmers to get any help. Puerto Rico should be very happy and the Dems should stop blocking much needed Disaster Relief!",
+      "keywords": [
+        "others unless much",
+        "want farmers",
+        "south carolina",
+        "puerto rico",
+        "north carolina",
+        "alabama",
+        "nebraska",
+        "money",
+        "iowa",
+        "help",
+        "happy",
+        "given",
+        "get",
+        "georgia",
+        "dems"
+      ]
+    }
+  ],
+  "polarity": 0.31943999999999995,
+  "subjectivity": 0.43781944444444443
+}

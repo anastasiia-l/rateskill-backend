@@ -1,0 +1,11 @@
+export PYTHONUNBUFFERED=1;
+export APP_SECRET_KEY='#2l$8%i70$x+_y6spu7*j8&+emg8v$ft2kt)@n6q=f$6+fe8xy';
+export DEBUG='True';
+export APP_DB_ENGINE='django.db.backends.postgresql';
+export DB_NAME='rateskill_db';
+export DB_USER='rateskill_user';
+export DB_PASSWORD='rateskill';
+export DB_HOST='localhost';
+export DB_PORT='5432';
+export DJANGO_SETTINGS_MODULE='rateskill.settings';
+export DJANGO_ALLOWED_HOSTS='127.0.0.1,localhost';

@@ -1,0 +1,3 @@
+curl -F 'csv_file=@/home/leshkevich/Документы/example1.csv' http://localhost:8000/api/upload/csv_file
+curl -d '{"user_id":15, "skill_title":"Communication", "rating":5}' -H "Content-Type: application/json" -X POST http://localhost:8000/api/rate_skill
+curl -d '{"id":15}' -H "Content-Type: application/json" -X POST http://localhost:8000/api/report
