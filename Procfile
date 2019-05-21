@@ -1,0 +1,1 @@
+web: gunicorn rateskill.wsgi --log-file -
